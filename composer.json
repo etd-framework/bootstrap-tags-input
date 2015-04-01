@@ -1,0 +1,14 @@
+{
+  "name": "etdsolutions/bootstrap-tags-input",
+  "description": "Shim repository for Bootstrap Tags Input",
+  "homepage": "https://github.com/timschlechter/bootstrap-tagsinput",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tim Schlechter"
+    }
+  ],
+  "require": {
+  	"etdsolutions/jquery": "~1.0"
+  }
+}
